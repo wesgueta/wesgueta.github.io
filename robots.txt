@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wesgueta.github.io/sitemap.xml

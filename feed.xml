@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Derrubando da Torre de Marfim</title>
+    <link href="https://wesgueta.github.io/feed.xml" rel="self" />
+    <link href="https://wesgueta.github.io" />
+    <updated>2021-07-03T23:06:06-03:00</updated>
+    <author>
+        <name>Wesley Gueta</name>
+    </author>
+    <id>https://wesgueta.github.io</id>
+
+    <entry>
+        <title>A problemática da abordagem indutivista, outras metodologias e seus critérios de demarcação</title>
+        <author>
+            <name>Wesley Gueta</name>
+        </author>
+        <link href="https://wesgueta.github.io/a-problematica-da-abordagem-indutivista-outras-metodologias-e-seus-criterios-de-demarcacao/"/>
+        <id>https://wesgueta.github.io/a-problematica-da-abordagem-indutivista-outras-metodologias-e-seus-criterios-de-demarcacao/</id>
+        <media:content url="https://wesgueta.github.io/media/posts/4/Francis_Bacon_Viscount_St_Alban_from_NPG_2.jpg" medium="image" />
+            <category term="Filosofia"/>
+            <category term="Educação"/>
+            <category term="Ciência"/>
+
+        <updated>2021-06-24T16:47:57-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://wesgueta.github.io/media/posts/4/Francis_Bacon_Viscount_St_Alban_from_NPG_2.jpg" alt="" />
+                    O projeto foi realizado em duas frentes. Uma delas apresentando uma visão comum do método científico -- que é um ideário majoritariamente empirista e associado às ciências exatas, ditas duras -- ensinado em livros didáticos, como exposto no artigo “Sobre&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wesgueta.github.io/media/posts/4/Francis_Bacon_Viscount_St_Alban_from_NPG_2.jpg" class="type:primaryImage" alt="" /></p>
+                <p><!-- wp:paragraph --></p>
+<p>O projeto foi realizado em duas frentes. Uma delas apresentando uma visão comum do método científico -- que é um ideário majoritariamente empirista e associado às ciências exatas, ditas duras -- ensinado em livros didáticos, como exposto no artigo “Sobre o ensino do método científico”\, de \citeauthor{MOREIRA}, que aqui será tomado como “senso comum”. Seguindo por uma reconstrução do processo de validação dessas ideias, passando por Gaileu e Francis Bacon e realizando algumas ilações sobre as possíveis causas da predominância do modelo Baconiano no ideário popular ate hoje. Ainda na primeira frente, será formalizado o indutivismo, evidenciando a argumentação e os pressupostos indutivistas e posteriormente, problematizando o mesmo, com os seus problemas de validação lógica e empírica, passando pelas críticas realizadas por \citeauthor{chalmers} e \citeauthor{Hume}.</p>
+<p>A segunda frente foi feita seguindo da exposição de outros dois métodos, o Falsificacionismo de \citeauthor{Popper} e o conceito de paradigmas de \citeauthor{kuhn}. A seguinte exposição tem como objetivo apresentar outras visões acerca da ciência e do seu desenvolvimento, bem como seus critérios de demarcação. Em Popper enunciei a sua solução para o problema da indução, que era mostrar que a ciência não e indutiva através do conceito de “falsificacionismo”, evidenciando uma adequação de Popper ao que ele observara na história, e exemplifiquei, com exemplos de \citeauthor{chalmers} algumas afirmações falseáveis, mostrando como a falseabilidade se torna um critério de demarcação. Em Kuhn sigo de forma semelhante, delineando a sua caracterização da ciência e o modo como observa o desenvolvimento científico, baseando-se, também, no que ele nota na história, mostrando a noção de paradigma como um novo critério de demarcação entre o fazer cientifico e os demais fazeres.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Dito isto, o trabalho objetiva introduzir uma problematização ao ensino de ciências, evidenciando os "poréns"\, do pensamento indutivista, e apresentar dois novos corpos de ideias acerca do fazer cientifico.</p>
+<p><!-- /wp:paragraph --> <!-- wp:heading --></p>
+<h2>MOTIVAÇÃO</h2>
+<p><!-- /wp:heading --> <!-- wp:paragraph --></p>
+<p>As ciências são designadas pelo uso de um método científico, mas nem todos os ramos de estudo que utilizam estes métodos são ciências. Isto é, o uso de um método científico não é exclusivo das ciências, mas não há ciência sem método científico.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Dito isto, torna-se evidente a necessidade de discorrer sobre o método científico e sobre a compreensão (percepção) pública da ciência. E o objetivo desta monografia é justamente este, discorrer sobre o ensino de ciências a fim de delimitar um conceito comum de ciência no ideário popular, para posteriormente identificar algumas das causas e, assim, partir para uma definição mais precisa dos conceitos, bem como para uma expansão dos conceitos, perpassando pelo Falsificacionismo de Popper e, por fim, o conceito de ciência comum e paradigmas de Thomas Kuhn.</p>
+<p><!-- /wp:paragraph --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Linha Editorial</title>
+        <author>
+            <name>Wesley Gueta</name>
+        </author>
+        <link href="https://wesgueta.github.io/linha-editorial/"/>
+        <id>https://wesgueta.github.io/linha-editorial/</id>
+
+        <updated>2021-06-24T15:26:52-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Nessa pagina será exposta à linha editorial que este, humilde, blogueiro seguirá. Esse blogue nasce para lidar com temas gerais que nutrem o meu interesse como humano em aperfeiçoamento e estudante de física entusiasta da filosofia e historia das ciências.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:paragraph --></p>
+<p>Nessa pagina será exposta à linha editorial que este, humilde, blogueiro seguirá.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Esse blogue nasce para lidar com temas gerais que nutrem o meu interesse como humano em aperfeiçoamento e estudante de física entusiasta da filosofia e historia das ciências. Meu objetivo <em>é</em> contribuir para um debate público plural e baseado em evidências e a publicização da minha linha editorial surge para valorizar a transparência e clareza.</p>
+<p><!-- /wp:paragraph --> <!-- wp:heading {"level":4} --></p>
+<h4><strong><em>Sobre os Princípios [Éticos e jornalísticos] norteadores</em></strong></h4>
+<p><!-- /wp:heading --> <!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Embora o que eu pretenda fazer <em><strong>não seja um trabalho jornalístico</strong></em>, utilizarei o <a href="https://www.manualdacredibilidade.com.br" target="_blank" rel="noopener noreferrer">Projeto Credibilidade </a>como guia. Dito isso, apresento alguns princípios jornalísticos que seguirei:
+<ol style="list-style-type: upper-roman;">
+<li><strong><em>Compromisso</em></strong> com a <strong>correção dos fatos</strong>. Caso alguma informação dada não esteja mais em conformidade com as [novas] evidencias ou caso seja constatado algum erro, me comprometo em corrigir a informação fornecida e a assumir o erro;</li>
+<li><strong><em>Compromisso</em></strong> com a utilização de <strong><em>fontes confiáveis</em></strong>. Não citarei ou compartilharei fontes duvidosas [ou desinformação, como <em><strong>notícias falsas</strong></em>]. Tudo o que for aqui escrito ou compartilhado será averiguado anteriormente, e me comprometo com a correção em caso de erro;</li>
+<li><strong><em>Sinalização</em></strong> entre notícias, analise e opinião. Deixarei claro a diferença quando apresentada uma notícia, uma análise e a minha opinião;</li>
+<li><strong><em>Descompromisso</em></strong> com o <strong><em>plágio</em></strong>. Indicarei as referências utilizadas para a construção da minha argumentação, e em casos de artigos que não sejam autorais, indicarei a autoria e se necessário pedirei autorização expressa do autor para a reprodução.</li>
+</ol>
+</li>
+</ol>
+<p><!-- /wp:list --> <!-- wp:heading {"level":4} --></p>
+<h4><em><strong>Sobre as Publicações</strong></em></h4>
+<p><!-- /wp:heading --> <!-- wp:paragraph --></p>
+<p>As publicações deste autor serão sobre temas diversos e distintos:</p>
+<p><!-- /wp:paragraph --> <!-- wp:list {"ordered":true} --></p>
+<ol>
+<li><strong><em>Difusão científica e cultura científica</em></strong> com ênfase em <strong><em>ciências exatas</em></strong>, em especial <strong><em>Física</em></strong>. Essa difusão/divulgação se volta para o público geral e tem como objetivo apresentar conceitos, ideais e a discussão acadêmica, com algum rigor, para fora da acadêmica;</li>
+<li><strong><em>Difusão científica com ênfase em atualidades</em></strong>, em especial sobre debate público/político baseado em evidências, tentando ser <strong><em>uma voz diferente dentre as vozes que ecoam</em></strong> ou corrigindo alguns problemas de ordem argumentativa. Os conteúdos desta sessão serão diversos, mas me atentarei por manter sobre a tutela dos meus <strong><em>tópicos de interesse</em></strong>, o que visa manter um rigor metodológico mínimo;</li>
+<li>Tecerei comentários e opiniões sobre algum tema atual <strong><em>quando julgar minha opinião relevante</em></strong>, ou quando achar <strong><em>necessário outra perspectiva</em></strong>.</li>
+</ol>
+<p><!-- /wp:list --> <!-- wp:heading {"level":4} --></p>
+<h4><em><strong>Sobre as Influências e tendências Políticas </strong></em></h4>
+<p><!-- /wp:heading --> <!-- wp:paragraph --></p>
+<p>Como evidenciado no início deste texto, e também em “<a href="https://wesgueta.github.io/fujadatorre/sobre-o-autor/" target="_blank" rel="noopener noreferrer">Sobre</a>”, o objetivo deste blogue <em>é</em> discutir temas que considero importantes e também <strong><em>diminuir a distância</em></strong> entre o conhecimento “especializado” e o senso comum. Não por assumir a posição de especialista, mas de alguém em posição de estudioso. Então, novamente, acredito ser honesto explicitar algumas tendências e influências que nortearão, de alguma forma, meu “julgamento”.</p>
+<p><!-- /wp:paragraph --> <!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Sou <strong><em>Humanista Secular </em></strong>e isto, e diversos dos princípios norteadores, <em>é</em> demasiadamente importante para mim. Alguns dos princípios são:
+<ol style="list-style-type: upper-roman;">
+<li><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Razão, Ciência e Tecnologia</strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">:</span>
+<ol style="list-style-type: lower-roman;">
+<li>As ciências e a razão são as ferramentas <strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;"><em>mais importantes </em></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">que temos para compreender o universo ao nosso redor e os problemas humanos. Logo, recuso toda forma de se tentar explicar o mundo através de termos sobrenaturais a menos de uma forte evidência. Como dito por Carl Sagan, “</span><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Alegações extraordinárias exigem evidências extraordinárias</strong></em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">”;</span></li>
+</ol>
+</li>
+<li><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Separação de estado e igreja</strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">:</span>
+<ol style="list-style-type: lower-roman;">
+<li>A história já nos deu lições claras sobre a importância do estado laico. Em qualquer religião ou ideologia estabelecida sobre o aval do Estado, há <strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;"><em>riscos iminentes para minorias</em></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. A sociedade deve ser </span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;"><em>aberta, plural e democracia</em></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">, pois essa e a melhor garantia de proteção dos </span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;"><em>direitos humanos</em></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> de elites e maiorias autoritárias e repressivas.</span></li>
+</ol>
+</li>
+<li><strong>Educação e Educação moral</strong>:
+<ol style="list-style-type: lower-roman;">
+<li>A educação deve ser <strong>pública</strong> como um método essencial para <strong>construir sociedades humanas livres e democráticas</strong>. Existem diversos objetivos possíveis para a educação, mas acredito que a educação deve ser feita para a <strong>instrução científica</strong>, propiciando uma capacidade critica do indivíduo e da comunidade, e a <strong>vida plena em sociedade</strong>, onde se <strong>encoraja a cidadania e o crescimento moral.</strong></li>
+</ol>
+</li>
+</ol>
+</li>
+<li><strong><em>Apoio movimentos sociais</em></strong> em prol da <strong><em>educação</em></strong> e da <strong><em>diminuição de desigualdades e injustiças</em></strong>;</li>
+<li><strong>Não sou</strong> filiado e <strong>nem pretendo</strong> me filiar a algum <strong>partido político</strong>. Portanto, não desejo ter meu discurso associado ou cooptado por alguém, ou algo, <strong>sem</strong> minha devida <strong>autorização</strong>. Entretanto, não limitarei minha fala com medo de julgamentos. Assim como todos são livres para apontar/tecer criticas relativas ao que escrevo, também sou livre para escrever o que achar pertinente, desde que ambas não exceda nenhum <strong><em>limite legal</em></strong>;</li>
+<li>Embora não tenha planos de me filiar, tenho diversas <strong>posições políticas</strong>. Segue algumas delas:
+<ol style="list-style-type: upper-roman;">
+<li>A educação deve ser <strong><em>pública</em></strong> e <strong><em>para todos</em></strong>;</li>
+<li>Sou favorável a <strong>paridade salarial</strong> e contra <strong><em>possibilidades</em></strong> de enriquecimento muito superiores a média regional. Um dos maiores problemas do mundo é a <strong>desigualdade econômica</strong>, incluso a salarial e de acesso a bens e recursos, bem como também é cada vez mais evidente que, para aspirar um mundo mais igualitário, é necessário que os <strong><em>padrões de consumo sejam reduzidos</em></strong>, por motivos <strong>ecológicos</strong> e <strong>éticos</strong>.</li>
+<li>A <strong><em>ciência</em></strong> e <strong><em>tecnologia</em></strong> são <strong><em>fundamentais</em></strong> para o desenvolvimento nacional, e <strong><em>não se faz ciência sem investimento estatal</em></strong>;</li>
+<li>O racismo <em>é</em> um dos problemas <strong><em>mais graves da humanidade</em></strong>, e ainda temos <strong>muito</strong> que fazer para resolver os problemas sociais derivados dele. No Brasil, as cotas raciais foram <strong>essenciais</strong> para <strong>aumentar o acesso </strong>de pretos, pardos e indígenas no Ensino Superior, e em alguns casos no serviço público, e sou totalmente a favor, mas <em>é</em> um <em>paliativo</em> e devemos <strong>lutar</strong> e <strong>buscar</strong> por mais, e novas, ações contra o racismo estrutural ainda existente;</li>
+<li><strong><em>Defendo</em></strong> o <strong><em>movimento feminista e LGBTQIA</em>+</strong>. Pode existir divergências quanto a forma, o que é natural para qualquer atividade humana, mas compreendo, integralmente, a luta desses ativistas;</li>
+<li><strong><em>Acredito que é SEMPRE necessário tomar posição em uma situação de injustiça</em>.</strong></li>
+</ol>
+</li>
+</ol>
+<p><!-- /wp:list --> <!-- wp:heading {"level":4} --></p>
+<h4><strong><em>Sobre as regras de comportamento neste blogue</em></strong></h4>
+<p><!-- /wp:heading --> <!-- wp:paragraph --></p>
+<p>Comentários são <strong>bem-vindos</strong> e <strong>encorajados</strong> neste blogue. Todos os comentários deverão ser passar, previamente, pela minha aprovação. Casos em que os comentários não serão aceites:</p>
+<p><!-- /wp:paragraph --> <!-- wp:list --></p>
+<ol>
+<li>Os comentários considerados <strong>spam</strong> ou <strong>exclusivamente promocionais</strong>. A inclusão de um 'link' para conteúdo relevante é permitida, desde que seja relevante para o tópico da publicação ou tangencie o tema, referenciando as demais publicações;</li>
+<li>Comentários incluindo <strong>palavrões</strong> serão excluídos. Comentários que conterem <strong>falácias argumentativas</strong> ou <strong>notícias falsas</strong> serão respondidos, à medida do tempo disponível do autor, apontando os <strong>problemas na argumentação</strong> e a <strong>verificação dos fatos</strong> da notícia;</li>
+<li>Comentários contendo <strong>linguagem</strong> ou <strong>conceitos ofensivos</strong> serão excluídos, ou respondidos. Observe que isso pode incluir <strong>linguagem abusiva</strong>, <strong>ameaçadora</strong>, <strong>pornográfica</strong>, <strong>ofensiva</strong>, <strong>enganosa</strong> ou <strong>difamatória</strong>;</li>
+<li>Comentários que <strong>atacam um indivíduo</strong> diretamente serão excluídos;</li>
+<li>Comentários que <strong>importunam outros leitores</strong> serão apagados. Por favor, <em><strong>seja respeitoso com outros contribuidores</strong></em>;</li>
+<li><strong>Comentários anônimos</strong> serão deletados. Só serão aceites comentários de leitores que se identificam;</li>
+<li>O proprietário deste blogue se reserva o direito de editar [<em><strong>com a devida sinalização de edição</strong></em>] ou <strong>excluir</strong> quaisquer comentários enviados ao blogue.</li>
+</ol>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Esta política de comentários está<strong><em> sujeita a alterações</em></strong> a qualquer momento. Se você tiver quaisquer perguntas sobre a política de comentários, por favor nos avise em <strong>“Contato”</strong>.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Essa linha editorial foi inspirada no <a href="https://www.nexojornal.com.br/about/Padr%C3%B5es-editoriais-do-Nexo" target="_blank" rel="noopener noreferrer">Jornal Nexo</a> e na Linha editorial do perfil do <a href="https://www.facebook.com/notes/thomas-conti/linha-editorial-deste-autor-no-face/1331845946884468/" target="_blank" rel="noopener noreferrer">Thomas Conti</a>.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>A linha editorial segue em<strong> atualização permanente</strong>. A data da última alteração consta ao fim da publicação.</p>
+<p><!-- /wp:paragraph --></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
